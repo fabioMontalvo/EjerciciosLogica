@@ -1,7 +1,6 @@
 # EjerciciosLogica 1
 import java.util.Scanner;
- 
-public class Pitagoras
+ public class Pitagoras
 {
     public static void main(String args[])
     {
@@ -18,8 +17,8 @@ public class Pitagoras
     }
 }
 # Ejercicio Logica 2
+
 import java.util.Scanner;
- 
 public class ParImpar
 {
     public static void main(String args[])
@@ -36,10 +35,10 @@ public class ParImpar
             System.out.println(numero + " es un número impar.");
     }
 }
+
 Ejercicio logica 3
 import java.util.Scanner;
- 
-public class AngulosTriangulo
+ public class AngulosTriangulo
 {
     public static void main(String args[])
     {
@@ -58,10 +57,9 @@ public class AngulosTriangulo
         else
             System.out.println("Los valores ingresados no son válidos.");
    
-   Ejercicio logica 4
-   import java.util.Scanner;
- 
-public class Promedio
+   #Ejercicio logica 4
+ import java.util.Scanner;
+ public class Promedio
 {
     public static void main(String args[])
     {
@@ -79,9 +77,9 @@ public class Promedio
     }
     
     #Ejercicio logica 5
-    import java.util.Scanner;
- 
-public class LongitudCadena
+    
+ import java.util.Scanner;
+ public class LongitudCadena
 {
     public static void main(String args[])
     {
@@ -99,9 +97,9 @@ public class LongitudCadena
 }
 
 #Ejercicio logica 6
+
 import java.util.Scanner;
- 
-public class AreaTriangulo
+ public class AreaTriangulo
 {
     public static void main(String args[])
     {
@@ -118,9 +116,9 @@ public class AreaTriangulo
     }
 }
 #Ejercicio logica 7
+
 import java.util.Scanner;
- 
-public class RaizCuadrada
+ public class RaizCuadrada
 {
     public static void main(String args[])
     {
@@ -138,9 +136,9 @@ public class RaizCuadrada
 }
 
 #Ejercicio Logica 8
+
 import java.util.Scanner;
- 
-public class MCD
+ public class MCD
 {
     public static void main(String args[])
     {
@@ -163,9 +161,9 @@ public class MCD
 }
 
 #Ejercicio Logica 9
+
 import java.util.Scanner;
- 
-public class CadenaInversa
+ public class CadenaInversa
 {
     public static void main(String args[])
     {
